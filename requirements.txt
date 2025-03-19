@@ -8,4 +8,3 @@ python-decouple==3.5
 scikit_learn==1.0.1
 xgboost==1.5.1
 gunicorn==20.1.0
-##
