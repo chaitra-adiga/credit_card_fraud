@@ -1,6 +1,5 @@
 # Credit Card Fraud Detection System
 
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Python](https://img.shields.io/badge/python-3.6+-green.svg)
 ![Django](https://img.shields.io/badge/django-4.0-green.svg)
 ![XGBoost](https://img.shields.io/badge/xgboost-1.5.1-orange.svg)
