@@ -1,5 +1,4 @@
 Django==4.0
-django_heroku==0.3.1
 geopy==2.2.0
 joblib==1.1.0
 numpy==1.20.3
